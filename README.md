@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Selam! Ben Mustafa Olğaç
 
-<!--
-**olgacmustafa/olgacmustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fırat Üniversitesi Yazılım Mühendisliği öğrencisiyim. Şu anda yazılım kariyerimin ilk basamaklarındayım ve aktif şekilde kendimi geliştiriyorum.
 
-Here are some ideas to get you started:
+🧠 1 yıldır C ve C++ üzerine çalışıyorum. Arduino UNO ile gömülü sistem projeleri yaptım (LED kontrol, gaz alarmı, park sensörü gibi). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Şu anda öğrendiğim konular:
+- Git & GitHub versiyon kontrol sistemleri
+- Gömülü sistem temel mimarisi
+- Yazılım mühendisliğine giriş
+
+📌 Kısa vadeli hedefim: Git ve GitHub konusunda sağlam bir temel atmak ve mikrodenetleyicilerle daha gelişmiş projeler yapmak.
+
+🎯 Uzun vadede savunma sanayiinde yazılım geliştiricisi olarak çalışmak istiyorum. Gömülü sistemler ve donanım-yazılım entegrasyonu alanlarında uzmanlaşmayı hedefliyorum.
+
+📫 Bana ulaşmak için: olgcmustafa@gmail.com
